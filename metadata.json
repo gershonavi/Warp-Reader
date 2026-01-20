@@ -1,0 +1,5 @@
+{
+  "name": "Velocity Reader",
+  "description": "A high-performance speed reading tool that uses Gemini to extract text from PDFs and presents it using the RSVP (Rapid Serial Visual Presentation) method with Optimal Recognition Point (ORP) highlighting.",
+  "requestFramePermissions": []
+}
